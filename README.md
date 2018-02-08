@@ -1,5 +1,5 @@
 # Finding-Charity-Donors
-Unsupervised learning model applied to census data to find possible donors for charity
+Supervised learning model applied to census data to find possible donors for charity
 
 ### Run
 
